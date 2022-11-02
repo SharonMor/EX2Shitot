@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//
 public class TestThreadCheckArray {
 //	badihi part
 	public static void main(String[] args) {
