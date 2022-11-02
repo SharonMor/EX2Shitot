@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 //import java.util.ArrayList; 
 
 
@@ -8,9 +10,9 @@ public class SharedData
 	private boolean flag;
 	private final int b;
 	
-	public SharedData(int[] array, int b) {
+	public SharedData(ArrayList<Integer> array2, int b) {
 		
-		this.array = array;
+		this.array = array2;
 		this.b = b;
 	}
 
