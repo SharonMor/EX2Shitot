@@ -33,7 +33,7 @@ public class SharedData
 	}
 
 	/**setWinArray function - sets winners (index) array.
-	 * @param winArray
+	 * @param bollean array - "winArray"
 	 */
 	public void setWinArray(boolean [] winArray) 
 	{
@@ -65,7 +65,7 @@ public class SharedData
 	}
 
 	/**setFlag function, changed flag status whenever needed (when number found).
-	 * @param flag
+	 * @param boolean variable - "flag"
 	 */
 	public void setFlag(boolean flag) {
 		this.flag = flag;
