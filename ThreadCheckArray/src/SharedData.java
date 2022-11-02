@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /**
  * @author Sharon
  * @author Yuval
- *SharedData class,this class is the shared class between the two threads..
+ *SharedData class,this class is the shared class between the two threads
  */
 public class SharedData 
 {
